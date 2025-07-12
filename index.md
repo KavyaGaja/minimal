@@ -7,7 +7,7 @@
 Fraud detection is a set of processes and analyses that allow businesses to identify and prevent unauthorized financial activity. This can include fraudulent credit card transactions, identify theft, cyber hacking, insurance scams, and more.
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/sajankedia/fraud_detection)
-<center><img src="[[https://example.com/image.png](https://www.google.com/search?sca_esv=0f6e5b6ea1476d14&rlz=1C5CHFA_enIN1056IN1056&sxsrf=AE3TifM3IaUabo42Jkl-h-Bzkv_Bpf_Z-g:1752300514392&q=lstm+neural+network+for+time+series+prediction&udm=2&fbs=AIIjpHxU7SXXniUZfeShr2fp4giZud1z6kQpMfoEdCJxnpm_3W-pLdZZVzNY_L9_ftx08kwv-_tUbRt8pOUS8_MjaceHwSbE7rHQVeqUDGmcWSh5yB2GAiR5esmFu9KSzs8c6vb0H-50tDdWhTi3bhMG0s76z_XMy8OT8JS-NEI144HpUp6iCg9JllixqbWEOUv3dYnSXpDemGUF4-GLnJe0E9sQg3qnVQ&sa=X&ved=2ahUKEwjc2MyN1LaOAxU5cGwGHWshMGwQtKgLKAJ6BAgcEAE&biw=1470&bih=832&dpr=2#vhid=ZMru59u5ceYhcM&vssid=mosaic)](https://www.google.com/search?q=Fraud+Detection&sca_esv=0f6e5b6ea1476d14&rlz=1C5CHFA_enIN1056IN1056&udm=2&biw=1470&bih=832&sxsrf=AE3TifM1dczB4qZTz8j-9HZnJwsHMx9Lnw%3A1752300598364&ei=NvxxaKf6FaaZseMPxIL1eA&ved=0ahUKEwin7dG11LaOAxWmTGwGHURBHQ8Q4dUDCBE&uact=5&oq=Fraud+Detection&gs_lp=EgNpbWciD0ZyYXVkIERldGVjdGlvbjIKEAAYgAQYQxiKBTIIEAAYgAQYsQMyChAAGIAEGEMYigUyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAESPkDUMECWMECcAF4AJABAJgBlgGgAZYBqgEDMC4xuAEDyAEA-AEB-AECmAICoAKgAagCCsICChAjGCcYyQIY6gKYAwSSBwMxLjGgB84FsgcDMC4xuAebAcIHAzItMsgHCA&sclient=img#vhid=F8Ce7D-4TPz7aM&vssid=mosaic)" width="600"/></center>
+
 
 ---
 ### Financial-Models-Numerical-Methods
@@ -28,7 +28,7 @@ The aim of these notebooks is to present these interesting topics, by showing th
 
 The following article sections will briefly touch on LSTM neuron cells, give a toy example of predicting a sine wave then walk through the application to a stochastic time series. The article assumes a basic working knowledge of simple deep neural networks.
 
-<center><img src="[https://example.com/image.png](https://www.google.com/search?sca_esv=0f6e5b6ea1476d14&rlz=1C5CHFA_enIN1056IN1056&sxsrf=AE3TifM3IaUabo42Jkl-h-Bzkv_Bpf_Z-g:1752300514392&q=lstm+neural+network+for+time+series+prediction&udm=2&fbs=AIIjpHxU7SXXniUZfeShr2fp4giZud1z6kQpMfoEdCJxnpm_3W-pLdZZVzNY_L9_ftx08kwv-_tUbRt8pOUS8_MjaceHwSbE7rHQVeqUDGmcWSh5yB2GAiR5esmFu9KSzs8c6vb0H-50tDdWhTi3bhMG0s76z_XMy8OT8JS-NEI144HpUp6iCg9JllixqbWEOUv3dYnSXpDemGUF4-GLnJe0E9sQg3qnVQ&sa=X&ved=2ahUKEwjc2MyN1LaOAxU5cGwGHWshMGwQtKgLKAJ6BAgcEAE&biw=1470&bih=832&dpr=2#vhid=ZMru59u5ceYhcM&vssid=mosaic)" width="600"/></center>
+
 
 
 ---
